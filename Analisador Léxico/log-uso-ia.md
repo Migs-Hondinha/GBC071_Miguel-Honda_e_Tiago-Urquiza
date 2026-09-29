@@ -1,0 +1,1 @@
+O uso de IA só foi utilizado para a verificação das componentes do trabalho e sua completude (se estavam como esperado para serem entregues). Ademais, para os testes com o Analisador léxico, a IA foi utilizada para confirmar a corretude dos testes.
